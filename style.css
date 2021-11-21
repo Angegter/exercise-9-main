@@ -1,0 +1,145 @@
+.kryg {
+  border-radius: 50%;
+  position: absolute;
+  background-color: yellow;
+  width: 200px;
+  height: 200px;
+  top: 77%;
+  left: -50px;
+}
+.triy {
+  position: absolute;
+  width: 200px;
+  height: 200px;
+  width: 0;
+  height: 0;
+  border-top: 100px solid transparent;
+  border-right: 200px solid #5cb85c;
+  border-bottom: 100px solid transparent;
+  right: 0;
+  top: -20px;
+}
+.main_box {
+  width: 1000px;
+  height: 1400px;
+  display: flex;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 100px;
+  border-left: 20%;
+}
+body {
+  background-color: rgb(245, 245, 245);
+}
+.wbox {
+  width: 550px;
+  font-family: "Trebuchet MS", sans-serif;
+  height: 700px;
+  background-color: white;
+  border-top-left-radius: 40px;
+  border-bottom-left-radius: 40px;
+}
+.bbox {
+  width: 450px;
+  height: 700px;
+  font-family: "Trebuchet MS", sans-serif;
+  background-color: lightseagreen;
+  border-top-right-radius: 40px;
+  border-bottom-right-radius: 40px;
+  color: white;
+  text-align: center;
+}
+.text1 {
+  text-align: center;
+  font-family: "Trebuchet MS", sans-serif;
+  font-size: 40px;
+  margin-top: 30px;
+}
+.social {
+  display: flex;
+  text-indent: 60px;
+  text-align: center;
+  font-family: "Trebuchet MS", sans-serif;
+  font-size: 25px;
+  padding: 35px;
+  margin-left: -25px;
+}
+.below {
+  font-family: "Trebuchet MS", sans-serif;
+  font-size: 16px;
+  color: rgb(99, 99, 99);
+}
+.a {
+  color: darkgrey;
+}
+.button {
+  background-color: lightseagreen;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 30px;
+}
+.user {
+  padding-top: 220px;
+}
+.button2 {
+  background-color: rgb(255, 255, 255);
+  border: none;
+  color: rgb(0, 0, 0);
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 30px;
+}
+.texxt {
+  margin: 40px;
+}
+.input1 {
+  margin-left: 40px;
+  margin-top: 20px;
+  height: 40px;
+  text-align: center;
+  font-family: "Trebuchet MS", sans-serif;
+  font-size: 20px;
+  border: transparent;
+  background-color: rgba(128, 128, 128, 0.507);
+  color: black;
+}
+.input2 {
+  margin-left: 40px;
+  margin-top: 20px;
+  height: 40px;
+  text-align: center;
+  font-family: "Trebuchet MS", sans-serif;
+  font-size: 20px;
+  border: transparent;
+  background-color: rgba(128, 128, 128, 0.507);
+  color: black;
+}
+.input3 {
+  margin-left: 40px;
+  margin-top: 20px;
+  height: 120px;
+  text-align: center;
+  font-family: "Trebuchet MS", sans-serif;
+  font-size: 20px;
+  border: transparent;
+  background-color: rgba(184, 184, 184, 0.596);
+  color: black;
+}
+.tttext {
+  margin-left: 30px;
+}
+.a {
+  text-align: center;
+  font-family: "Trebuchet MS", sans-serif;
+  font-size: 20px;
+  margin: 20px;
+}
